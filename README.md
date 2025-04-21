@@ -1,6 +1,8 @@
+<!-- Calming GIF Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" alt="Calm Vibes" width="100%" />
+  <img src="https://cdn.pixabay.com/animation/2022/10/24/10/30/10-30-32-422_512.gif" alt="Calm Cat Night GIF" width="100%" />
 </p>
+
 <h1 align="center">🚀 Welcome to My GitHub Dashboard</h1>
 
 <p align="center">
