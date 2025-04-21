@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" alt="Calm Vibes" width="100%" />
+</p>
 <h1 align="center">🚀 Welcome to My GitHub Dashboard</h1>
 
 <p align="center">
