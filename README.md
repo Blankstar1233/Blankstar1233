@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Bandra-vorlisealink.png" alt="Bandra-Worli Sea Link" width="100%" style="border-radius: 12px; border: 1px solid #444;" />
+  <img src="asset/Bandra-vorlisealink.png" alt="Bandra-Worli Sea Link" width="100%" style="border-radius: 12px; border: 1px solid #444;" />
 </p>
 
 
@@ -58,7 +58,7 @@ Loading.......
 
 | Contribution Graph |
 |--------------------
-| ![Graph](./assets/contributions.png) |
+| ![Graph](./asset/contributions.png) |
 
 ---
 
