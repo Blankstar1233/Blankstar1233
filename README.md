@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2022/10/24/10/30/10-30-32-422_960.gif" alt="Calm Cat at Night" width="100%" />
+  <img src="assets/Bandra-vorlisealink.png" alt="Bandra-Worli Sea Link" width="100%" style="border-radius: 12px; border: 1px solid #444;" />
 </p>
 
 
@@ -56,9 +56,9 @@ Loading.......
 
 ### 🖼️ Screenshots
 
-| Dashboard Overview | Contribution Graph |
-|--------------------|--------------------|
-| ![Overview](./assets/dashboard.png) | ![Graph](./assets/contributions.png) |
+| Contribution Graph |
+|--------------------
+| ![Graph](./assets/contributions.png) |
 
 ---
 
