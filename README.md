@@ -34,12 +34,8 @@ I'm passionate about building clean, responsive, and dynamic web applications an
 ---
 
 ### ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started with Dashboards Using React](#)
-- [How I Built My Personal Dashboard](#)
-- [A Frontend Developer’s Guide to GitHub Profiles](#)
-<!-- BLOG-POST-LIST:END -->
+404 NOT FOUND 😂
+I havn't written any article yet!!
 
 ---
 
@@ -49,7 +45,7 @@ I'm passionate about building clean, responsive, and dynamic web applications an
 
 Here are links to some of my pinned repositories:
 
-* [PALCOA](https://github.com/Blankstar1233/Palcoa))
+* [PALCOA](https://github.com/Blankstar1233/Palcoa)
 * [weather_app_flutter](https://github.com/Blankstar1233/weather_app_flutter)
 * [Collabrify](https://github.com/Blankstar1233/Collabrify)
 
