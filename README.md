@@ -70,7 +70,7 @@ Here are links to some of my pinned repositories:
 
 ### Commit History
 
-[![Commit graph](https://github.com/Blankstar1233/Blankstar1233/contrib-streak-stats.svg)](https://github.com/Blankstar1233/Blankstar1233)
+[https://github.com/Blankstar1233/Blankstar1233/contrib-streak-stats.svg](https://github.com/Blankstar1233/Blankstar1233/contrib-streak-stats.svg)
 
 ---
 
