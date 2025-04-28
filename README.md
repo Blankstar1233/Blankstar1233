@@ -45,7 +45,15 @@ I'm passionate about building clean, responsive, and dynamic web applications an
 
 ### 📈 GitHub Stats
 
-Loading.......
+### Pinned Repositories
+
+Here are links to some of my pinned repositories:
+
+* [PALCOA](https://github.com/Blankstar1233/Palcoa))
+* [weather_app_flutter](https://github.com/Blankstar1233/weather_app_flutter)
+* [Collabrify](https://github.com/Blankstar1233/Collabrify)
+
+
 ---
 
 ### 🧩 Current Project Highlight
@@ -56,9 +64,13 @@ Loading.......
 
 ### 🖼️ Screenshots
 
-| Contribution Graph |
+| Contribution data |
 |--------------------
 | ![Graph](./asset/contributions.png) |
+
+### Commit History
+
+[![Commit graph](https://github.com/Blankstar1233/Blankstar1233/contrib-streak-stats.svg)](https://github.com/Blankstar1233/Blankstar1233)
 
 ---
 
