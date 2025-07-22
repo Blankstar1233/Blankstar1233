@@ -42,12 +42,11 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### ✍️ Animated Quote of the Day
 
-<!-- Snake animation only works if GitHub Action is set up, see instructions below -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Blankstar1233/Blankstar1233/output/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&width=435&lines=“Stay+hungry,+stay+foolish.”+–+Steve+Jobs;“Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.”;“First,+solve+the+problem.+Then,+write+the+code.”" alt="Animated Quote" />
+</p>
 
 ---
 
