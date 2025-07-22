@@ -27,6 +27,8 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
@@ -34,24 +36,26 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Blankstar1233&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Blankstar1233&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Blankstar1233/Blankstar1233/output/snake.svg" alt="Snake animation" />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blankstar1233&radius=16&theme=arctic&area=true&order=5&hide_border=true&line=7e22ce&point=7e22ce" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blankstar1233&layout=compact&theme=cobalt&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blankstar1233&show_icons=true&theme=cobalt&hide_border=true" height="150" />
 </div>
 
 ---
 
-### 🧩 Current Project Highlight
+### 🐍 GitHub Contribution Snake
 
-> ✅ This dashboard is my personal developer home. It's dynamic, modular, and built to scale. I use it to test new UI ideas, track metrics, and share tech content.
+<!-- Snake animation only works if GitHub Action is set up, see instructions below -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Blankstar1233/Blankstar1233/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 🔥 GitHub Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blankstar1233&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -63,34 +67,15 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
 
 ---
 
-### ✍️ Latest Blog Posts
-
-🚫 404 NOT FOUND 😂  
-I haven't written any articles yet!! (But stay tuned 😄)
-
----
-
 ### 🧠 Mini Game Zone
 
-> 🎮 Play a game while you're here! Powered by CodePen.
-> If it is not working worry not, that just means I am trying to fix my life.
+> 🎮 Play a game while you're here! Powered by CodePen.  
+> If it is not working, worry not – that just means I am fixing my life too 😅
 
 <p align="center">
   <iframe height="400" style="width: 100%;" scrolling="no" title="Tic Tac Toe Game - JS" src="https://codepen.io/thebabydino/embed/LYVRpZE?default-tab=result&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-    See the Pen <a href='https://codepen.io/thebabydino/pen/LYVRpZE'>Tic Tac Toe Game - JS</a>
   </iframe>
 </p>
-
----
-
-### 🖼️ Screenshots
-
-| Contribution data |
-|--------------------|
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blankstar1233&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
 
 ---
 
