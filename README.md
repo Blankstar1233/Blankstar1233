@@ -45,7 +45,7 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
 ### ✍️ Animated Quote of the Day
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&center=true&width=500&lines=Be+so+good+they+can’t+ignore+you!;Keep+pushing+forward.;Every+line+of+code+matters!" alt="Typing SVG"/>
+  <img src="assets/quotes.gif" alt="Animated Quote" width="450" />
 </p>
 
 ---
