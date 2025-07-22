@@ -45,14 +45,8 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
 ### ✍️ Animated Quote of the Day
 
 <p align="center">
-  <img src="assets/quotes.gif" alt="Animated Quote" width="450" />
+  <img src="asset/quotes.gif" alt="Animated Quote" width="450" />
 </p>
-
----
-
-
----
-
 
 ---
 
