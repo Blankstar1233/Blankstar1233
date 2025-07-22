@@ -38,7 +38,8 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
   <img src="https://github-readme-stats.vercel.app/api?username=Blankstar1233&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Blankstar1233/Blankstar1233/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Blankstar1233/Blankstar1233/output/snake.svg" />
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blankstar1233&radius=16&theme=arctic&area=true&order=5&hide_border=true&line=7e22ce&point=7e22ce" height="300" alt="activity-graph graph" />
