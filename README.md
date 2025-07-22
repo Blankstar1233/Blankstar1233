@@ -38,7 +38,9 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
   <img src="https://github-readme-stats.vercel.app/api?username=Blankstar1233&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Blankstar1233/Blankstar1233/output/snake.svg" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Blankstar1233/Blankstar1233/output/snake.svg" alt="Snake animation" />
+</div>
 
 
 <div align="center">
@@ -85,7 +87,10 @@ I haven't written any articles yet!! (But stay tuned 😄)
 
 | Contribution data |
 |--------------------|
-| ![Graph](./asset/contributions.png) |
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blankstar1233&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
 
 ---
 
