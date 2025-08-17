@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="asset/Bandra-vorlisealink.png" alt="Bandra-Worli Sea Link" width="100%" style="border-radius: 12px; border: 1px solid #444;" />
-</p>
 
 <h1 align="center">🚀 Welcome to My GitHub Dashboard</h1>
 
@@ -39,14 +36,6 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blankstar1233&layout=compact&theme=cobalt&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=Blankstar1233&show_icons=true&theme=cobalt&hide_border=true" height="150" />
 </div>
-
----
-
-### ✍️ Animated Quote of the Day
-
-<p align="center">
-  <img src="asset/quotes.gif" alt="Animated Quote" width="450" />
-</p>
 
 ---
 
