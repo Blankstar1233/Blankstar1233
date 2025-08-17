@@ -55,18 +55,6 @@ I'm passionate about building clean, responsive, and dynamic web and Android app
 
 ---
 
-### 🧠 Mini Game Zone
-
-> 🎮 Play a game while you're here! Powered by CodePen.  
-> If it is not working, worry not – that just means I am fixing my life too 😅
-
-<p align="center">
-  <iframe height="400" style="width: 100%;" scrolling="no" title="Tic Tac Toe Game - JS" src="https://codepen.io/thebabydino/embed/LYVRpZE?default-tab=result&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  </iframe>
-</p>
-
----
-
 ### 🙌 Let's Connect
 
 <p>
